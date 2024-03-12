@@ -1,0 +1,15 @@
+.elements {
+    background-color: #dec6ff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 0px 5px 20px #8865a0;
+}
+
+.button {
+    text-align: center;
+    background-color: #4c1557;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 0px 5px 20px #221029;
+}
